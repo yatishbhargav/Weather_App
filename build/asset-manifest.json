@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yathishbhargav.github.io/WeatherInfo_React/static/css/main.a0003561.chunk.css",
+    "main.js": "/yathishbhargav.github.io/WeatherInfo_React/static/js/main.7d861d5b.chunk.js",
+    "main.js.map": "/yathishbhargav.github.io/WeatherInfo_React/static/js/main.7d861d5b.chunk.js.map",
+    "runtime-main.js": "/yathishbhargav.github.io/WeatherInfo_React/static/js/runtime-main.5fcf6480.js",
+    "runtime-main.js.map": "/yathishbhargav.github.io/WeatherInfo_React/static/js/runtime-main.5fcf6480.js.map",
+    "static/css/2.4819d237.chunk.css": "/yathishbhargav.github.io/WeatherInfo_React/static/css/2.4819d237.chunk.css",
+    "static/js/2.88febe33.chunk.js": "/yathishbhargav.github.io/WeatherInfo_React/static/js/2.88febe33.chunk.js",
+    "static/js/2.88febe33.chunk.js.map": "/yathishbhargav.github.io/WeatherInfo_React/static/js/2.88febe33.chunk.js.map",
+    "index.html": "/yathishbhargav.github.io/WeatherInfo_React/index.html",
+    "precache-manifest.3865948880762c008efd872b0e2f7329.js": "/yathishbhargav.github.io/WeatherInfo_React/precache-manifest.3865948880762c008efd872b0e2f7329.js",
+    "service-worker.js": "/yathishbhargav.github.io/WeatherInfo_React/service-worker.js",
+    "static/css/2.4819d237.chunk.css.map": "/yathishbhargav.github.io/WeatherInfo_React/static/css/2.4819d237.chunk.css.map",
+    "static/css/main.a0003561.chunk.css.map": "/yathishbhargav.github.io/WeatherInfo_React/static/css/main.a0003561.chunk.css.map",
+    "static/js/2.88febe33.chunk.js.LICENSE.txt": "/yathishbhargav.github.io/WeatherInfo_React/static/js/2.88febe33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fcf6480.js",
+    "static/css/2.4819d237.chunk.css",
+    "static/js/2.88febe33.chunk.js",
+    "static/css/main.a0003561.chunk.css",
+    "static/js/main.7d861d5b.chunk.js"
+  ]
+}
